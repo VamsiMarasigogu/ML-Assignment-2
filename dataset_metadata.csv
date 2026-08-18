@@ -1,0 +1,9 @@
+item,value
+Dataset,Breast Cancer Wisconsin (Diagnostic)
+Dataset source,"UCI Machine Learning Repository, Dataset ID 17"
+Instances,569
+Features,30
+Task,Binary classification
+Test size,20%
+Random state,42
+Positive class for metrics,M = malignant
